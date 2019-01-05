@@ -1,0 +1,20 @@
+.like-list img {
+    width: 83px;
+    height: 99px;
+    padding: 5px;
+    border: 1px solid #c3c3c3;
+}
+.like-list-content {
+    display: flex;
+}
+.like-list a{
+    text-decoration: none;
+    color: #33bee2;
+}
+.like-list h3 {
+    background-color: #5261ac;
+    font-size: 19px;
+    color: #fff;
+    padding: 5px;
+    text-transform: uppercase;
+}

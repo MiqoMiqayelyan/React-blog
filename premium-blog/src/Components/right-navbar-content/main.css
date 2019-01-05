@@ -1,0 +1,14 @@
+.first-content {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+.first-photo img {
+    width: 83px;
+    height: 99px;
+    padding: 5px;
+    border: 1px solid #c3c3c3;
+}
+.first-text h3{
+    color: #00aedb;
+}

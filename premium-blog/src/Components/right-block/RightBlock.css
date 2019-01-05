@@ -1,0 +1,17 @@
+.rightblock_wrapper {
+    width: 100%;
+   
+}
+.rightblock_top {
+    width: 200px;
+    background-image: url(../../images/rightblock-top-bg.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: left;
+    padding: 3px;
+}
+.rightblock_top p {
+    padding: 5px 20px;
+    font-size: 19px;
+    color: #fff;
+}

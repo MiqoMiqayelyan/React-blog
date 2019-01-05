@@ -1,0 +1,18 @@
+main {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.wrapper {
+    width: 85%;
+}
+#content-div {
+    width: 65%;
+}
+.flex-content {
+    display: flex;
+    justify-content: space-between;
+}
+.rightblock {
+    width: 33%;
+}

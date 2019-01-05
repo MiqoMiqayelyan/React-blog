@@ -1,0 +1,17 @@
+.archives h3 {
+    background-color: #5261ac;
+    font-size: 19px;
+    color: #fff;
+    padding: 5px;
+    text-transform: uppercase;
+}
+.archives *  {
+   margin: 0;
+    
+}
+.archives p {
+    background-color: #fff;
+    padding: 15px;
+    font-size: 13px;
+    cursor: pointer;
+}

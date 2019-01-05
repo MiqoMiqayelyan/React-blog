@@ -1,0 +1,16 @@
+.right-arrow {
+    width: 14px;
+    height: 24px;
+    background-image: url(../../images/slider-right-arrow.png);
+    position: absolute;
+    bottom: 0;
+    right: -20px;
+}
+.left-arrow {
+    width: 14px;
+    height: 24px;
+    background-image: url(../../images/slider-left-arrow.png);
+    position: absolute;
+    bottom: 0;
+    left: -20px;
+}
